@@ -1,4 +1,4 @@
-# annotate-page
+# note-page
 
 ## What it does
 
